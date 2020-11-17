@@ -1,4 +1,4 @@
-# Curso Alura - Angular parte 1: Fundamentos
+# Curso Alura - Angular parte 2: Autenticação, Forms e lazy loading
 
 ## Instalação inicial
 ```
